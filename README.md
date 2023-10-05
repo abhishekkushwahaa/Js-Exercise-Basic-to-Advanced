@@ -3,7 +3,7 @@ A Code Repo for JavaScript Programming Exercises and their Solutions
 
 Certainly! Here's a list of 100 JavaScript exercises that range from basic to advanced. These exercises will help you improve your JavaScript skills:
 
-********************************Basic Level (1-20)**************************************
+##Basic Level (1-20)
 
 1. Write a JavaScript program to display "Hello, World!" in the console.
 2. Declare and initialize variables for different data types (string, number, boolean).
@@ -26,7 +26,7 @@ Certainly! Here's a list of 100 JavaScript exercises that range from basic to ad
 19. Handle exceptions using try...catch.
 20. Use the `localStorage` API to store and retrieve data.
 
-****************************Intermediate Level (21-60)**********************************
+## Intermediate Level (21-60)
 
 21. Create a simple todo list application.
 22. Implement a basic calculator using HTML, CSS, and JavaScript.
@@ -69,7 +69,7 @@ Certainly! Here's a list of 100 JavaScript exercises that range from basic to ad
 59. Create a basic 2D game (e.g., Pong or Flappy Bird).
 60. Build a simple expense tracker.
 
-****************************Advanced Level (61-100)***********************************
+## Advanced Level (61-100)
 
 61. Implement user authentication with OAuth (e.g., Google or Facebook login).
 62. Create a full-fledged blogging platform with user accounts and comments.
