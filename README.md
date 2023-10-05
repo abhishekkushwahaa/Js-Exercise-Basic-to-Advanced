@@ -3,7 +3,7 @@ A Code Repo for JavaScript Programming Exercises and their Solutions
 
 Certainly! Here's a list of 100 JavaScript exercises that range from basic to advanced. These exercises will help you improve your JavaScript skills:
 
-##Basic Level (1-20)
+## Basic Level (1-20)
 
 1. Write a JavaScript program to display "Hello, World!" in the console.
 2. Declare and initialize variables for different data types (string, number, boolean).
