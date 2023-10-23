@@ -2,7 +2,9 @@
 :wave: Welcome to the JavaScript Coding Challenges repository! In this repository, you will find a collection of coding challenges and solutions to help you improve your JavaScript skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to hone your skills, you'll find challenges suited to your level.
 
 Certainly! Here's a list of 100 JavaScript exercises that range from basic to advanced. These exercises will help you improve your JavaScript skills:
-`B` - Basic    `I` - Intermediate     `A` - Advanced
+`B` - Basic    
+`I` - Intermediate     
+`A` - Advanced
 
 ## `B` Basic Level (1-20)
 1. [Write a JavaScript program to display "Hello, World!" in the console](https://github.com/abhishekkushwahaa/Js-Exercise-Basic-to-Advanced/blob/main/01_Basic/01.js).
@@ -34,7 +36,7 @@ Certainly! Here's a list of 100 JavaScript exercises that range from basic to ad
 25. [Create a form validation script](https://github.com/abhishekkushwahaa/Js-Exercise-Basic-to-Advanced/blob/main/02_Intermediate/25.html).
 26. [Use asynchronous JavaScript with Promises](https://github.com/abhishekkushwahaa/Js-Exercise-Basic-to-Advanced/blob/main/02_Intermediate/26.js).
 27. [Fetch data from an API and display it on a webpage]().
-28. [Create a simple image slider using JavaScript.
+28. [Create a simple image slider using JavaScript]().
 29. [Build a basic chat application with real-time updates using WebSockets]().
 30. [Implement a basic drag-and-drop functionality]().
 31. [Create a digital clock that updates in real-time]().
@@ -76,7 +78,7 @@ Certainly! Here's a list of 100 JavaScript exercises that range from basic to ad
 65. [Create a virtual reality (VR) or augmented reality (AR) experience with JavaScript]().
 66. [Build a complex data visualization dashboard]().
 67. [Implement a multiplayer online game using WebSockets]().
-68. [Create a voice recognition and synthesis application.
+68. [Create a voice recognition and synthesis application]().
 69. [Implement a full-stack JavaScript project (e.g., MERN or MEAN stack)]().
 70. [Build a chat application with end-to-end encryption for security]().
 71. [Create a machine learning model using TensorFlow.js]().
