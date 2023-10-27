@@ -2,6 +2,7 @@
 :wave: Welcome to the JavaScript Coding Challenges repository! In this repository, you will find a collection of coding challenges and solutions to help you improve your JavaScript skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to hone your skills, you'll find challenges suited to your level.
 
 Certainly! Here's a list of 100 JavaScript exercises that range from basic to advanced. These exercises will help you improve your JavaScript skills:
+
 `B` - Basic    
 `I` - Intermediate     
 `A` - Advanced
