@@ -5,7 +5,7 @@ Certainly! Here's a list of 100 JavaScript exercises that range from basic to ad
 
 `B` - Basic    
 `I` - Intermediate     
-`A` - Advanced
+`A` - Advance
 
 ## `B` Basic Level (1-20)
 1. [Write a JavaScript program to display "Hello, World!" in the console](https://github.com/abhishekkushwahaa/Js-Exercise-Basic-to-Advanced/blob/main/01_Basic/01.js).
@@ -71,7 +71,7 @@ Certainly! Here's a list of 100 JavaScript exercises that range from basic to ad
 59. [Create a basic 2D game (e.g., Pong or Flappy Bird)]().
 60. [Build a simple expense tracker]().
 
-## `A` Advanced Level (61-100)
+## `A` Advance Level (61-100)
 61. [Implement user authentication with OAuth (e.g., Google or Facebook login)]().
 62. [Create a full-fledged blogging platform with user accounts and comments]().
 63. [Build a real-time collaborative text editor (like Google Docs)]().
